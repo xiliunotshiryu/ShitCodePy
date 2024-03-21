@@ -5,6 +5,8 @@
 
 ![logo.jpeg](logo/logo_1.png)
 ***************************************
+语言: [English](README.md) | [简体中文](README_zh.md)
+***************************************
 ## 获得徽章
 如果你的仓库中使用了💩ShitCodePy💩，你可以在你的README.md中添加徽章，以展示你的项目使用了ShitCodePy规范。
 

@@ -5,6 +5,8 @@
 
 ![logo.jpeg](logo/logo_1.png)
 ***************************************
+Language: [English](README.md) | [简体中文](README_zh.md)
+***************************************
 ## Get the Badge
 If your repository uses 💩ShitCodePy💩, you can add a badge to your README.md to show that your project adheres to the ShitCodePy standard.
 
