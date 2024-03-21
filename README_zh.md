@@ -39,3 +39,5 @@ python是我最喜欢的编程语言之一，也是使用非常广泛的编程�
 * 希望本项目有一天能够成为所有python开发者ShitCode艺术宝典;
 
 让我们开始ShitCodePy之旅吧！
+***************************************
+手册: [manual](principle/manual.md) | [manual_中文](principle/manual_zh.md) 

@@ -37,3 +37,5 @@ Therefore, I decided to create this project, hoping to spread the coding skills 
 
 
 Let’s start the journey of ShitCodePy!
+***************************************
+manual : [manual](principle/manual.md) | [manual_中文](principle/manual_zh.md) 
