@@ -21,9 +21,8 @@ Engineering projects that adhere to the ShitCodePy standard will become very art
 ## Preface
 With the rapid development of AI technology, it is soon expected to replace many human jobs, leading to increased unemployment rates in some industries, including programmers. Recently, many large tech companies and startups have begun using AI to create virtual programmers, causing great anxiety among my friends.
 
-By chance, I discovered that ShitCode could help alleviate this problem. If a project contains a large amount of ShitCode, it appears as a mountain of ShitCode, which is quite artistic. More importantly, it becomes harder for AI programmers to understand and maintain these projects, turning heavily ShitCode-compliant projects into useless samples that increase the cost of learning and training for AI programmers.
-
-This astonishing discovery made me revisit my ShitCode coding career, which has been a very arduous journey.
+Imagine a future world filled with AI-programmed formatted code, how terrifying that would be! Such nearly perfect codes all look the same, lacking the artistic touch of humanity. Humans need ShitCode. Also, if a project is full of ShitCode, it would look like a mountain of ShitCode piled up. 
+AI programmers would also find it harder to understand and maintain these projects, and engineering projects that extensively use ShitCode standards will become useless samples, increasing the cost of learning and training for AI programmers. Thinking of this, I am reminded of my ShitCode coding career, which was a very arduous experience.
 
 There’s a saying in the ShitCode community: ‘Writing good ShitCode requires talent and effort,’ and I deeply agree. Looking around at friends and colleagues, they all possess profound coding skills and good coding habits, making it very difficult for them now to write excellent ShitCode.
 
